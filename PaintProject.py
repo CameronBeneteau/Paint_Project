@@ -1,4 +1,4 @@
-#PaintProject1.0.py
+#PaintProject.py
 ##DUE FRIDAY FEB, 3TH, 2017##
 from pygame import * #import all pygame modules
 from random import * #imoprt all random functions
