@@ -1,2 +1,2 @@
 # Paint-Project
-A themed remake if Microsoft Paint using Python/Pygame
+A themed remake of Microsoft Paint using Python and Pygame
